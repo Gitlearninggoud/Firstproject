@@ -15,6 +15,6 @@ class computerB (computerA) :
         print("this is i5B+ processor \n"+self.name)        
 
         
-com1=computerB("Don",34)
+com1=computerB("Don",44)
 com1.configB()
 
